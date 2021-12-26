@@ -1,16 +1,16 @@
 ### ☠ I write code 🐱‍💻<br>
 
-### My main interests
+### My main interests 🦉
 - AI/ML
 - Ethical Hacking.
 - Web Development.
 
-### My research interests
+### My research interests 💡
 - AI/ML.
 - NLP at a semantic level.
 - Generalization in AI Systems.
 
-### Topics I like to mess around with and learn about
+### Topics I like to mess around with and learn about 👨‍💻
 - Data Science.
 - Linux Based OS.
 - Computational Mathematics.
@@ -21,7 +21,7 @@
 - Robotics.
 - Web scraping.
 
-### My favourite technologies
+### My favourite technologies 👾
 - Python
 - Javascript
 - HTML5
