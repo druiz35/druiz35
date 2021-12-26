@@ -1,7 +1,7 @@
 ### ☠ I write code 🐱‍💻<br>
 
 ### My main interests 🦉
-- AI/ML
+- AI/ML.
 - Ethical Hacking.
 - Web Development.
 
@@ -22,16 +22,16 @@
 - Web scraping.
 
 ### My favourite technologies 👾
-- Python
-- Javascript
-- HTML5
-- CSS
-- Django
-- Flask
-- MongoDB
-- PostgreSQL
-- AngularJS
-- Bootstrap
+- Python.
+- Javascript.
+- HTML5.
+- CSS.
+- Django.
+- Flask.
+- MongoDB.
+- PostgreSQL.
+- AngularJS.
+- Bootstrap.
 
 También hablo español ^_____^!
 
