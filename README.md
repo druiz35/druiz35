@@ -24,6 +24,7 @@
 ### My favourite technologies 👾
 - Python.
 - Javascript.
+- Matlab.
 - HTML5.
 - CSS.
 - Django.
