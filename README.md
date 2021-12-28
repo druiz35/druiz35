@@ -1,16 +1,9 @@
 ### I write code :)<br>
+My main interests are AI/ML 🤖, Ethical Hacking ☠ and Web Development ✨.
+My research interests are in AI/ML, especifically on NLP at a semantic level and generalization in AI Systems. I also love Linux and Python, so most of my work is written using this technologies.
+ <br>Thanks for checking out my profile ^_____^!
 
-### My main interests 🐱‍💻
-- AI/ML.
-- Ethical Hacking.
-- Web Development.
-
-### My research interests 💡
-- AI/ML.
-- NLP at a semantic level.
-- Generalization in AI Systems.
-
-### Topics I like to mess around with and learn about 👨‍💻
+## Topics I like to mess around with and learn about 👨‍💻
 - Data Science.
 - Linux Based OS.
 - Computational Mathematics.
@@ -21,7 +14,7 @@
 - Robotics.
 - Web scraping.
 
-### My favourite technologies 👾
+## My favourite technologies 👾
 - Python.
 - Javascript.
 - Matlab.
@@ -33,8 +26,6 @@
 - PostgreSQL.
 - AngularJS.
 - Bootstrap.
-
-También hablo español ^_____^!
 
 <!---
 druiz35/druiz35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
