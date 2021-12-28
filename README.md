@@ -15,6 +15,7 @@ My research interests are in AI/ML, especifically on NLP at a semantic level and
 - Web scraping.
 
 ## My favourite technologies 👾
+- Linux
 - Python.
 - Javascript.
 - Matlab.
