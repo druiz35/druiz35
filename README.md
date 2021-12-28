@@ -1,6 +1,6 @@
-### ☠ I write code 🐱‍💻<br>
+### I write code :)<br>
 
-### My main interests 🦉
+### My main interests 🐱‍💻
 - AI/ML.
 - Ethical Hacking.
 - Web Development.
