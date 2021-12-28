@@ -26,7 +26,7 @@
 - Javascript.
 - Matlab.
 - HTML5.
-- CSS.
+- SCSS.
 - Django.
 - Flask.
 - MongoDB.
