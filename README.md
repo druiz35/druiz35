@@ -5,14 +5,14 @@
 <br>
 
 # <p align="center"> Topics I like to mess around with and learn about 👨‍💻 </p>
-### Data Science ⚗
-### Linux Based OS 🐧
-### Computational Mathematics 🧮
-### Computational Physics 🪐🌌
-### Quantum Computing Applied to AI Systems 🤖🌌
-### Bio-Inspired Computing 🧬
-### Robotics and Home Automation 🤖🏠
-### Web Scraping 🕷
+### <p align="center"> Data Science ⚗ </p>
+### <p align="center"> Linux Based OS 🐧 </p>
+### <p align="center"> Computational Mathematics 🧮 </p>
+### <p align="center"> Computational Physics 🪐🌌 </p>
+### <p align="center"> Quantum Computing Applied to AI Systems 🤖🌌 </p>
+### <p align="center"> Bio-Inspired Computing 🧬 </p>
+### <p align="center"> Robotics and Home Automation 🤖🏠 </p>
+### <p align="center"> Web Scraping 🕷 </p>
 
 # <p align="center"> My favourite technologies 👾 </p>
 ### <p align="center"> Languages: </p>
