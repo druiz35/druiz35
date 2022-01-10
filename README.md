@@ -14,6 +14,7 @@
 ### <p align="center"> Bio-Inspired Computing 🧬 </p>
 ### <p align="center"> Robotics and Home Automation 🤖🏠 </p>
 ### <p align="center"> Web Scraping 🕷 </p>
+### <p align="center"> Web Development ✨👨‍💻</p>
 
 # <p align="center"> My favourite technologies 👾 </p>
 ### <p align="center"> Languages: </p>
