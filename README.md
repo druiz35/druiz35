@@ -1,5 +1,5 @@
 
-### <p align="center"> I write code here :) </p>
+### <p align="center"> I post code here :) </p>
 ### <p align="center"> My main interests are AI/ML 🤖, Ethical Hacking ☠ and Web Development ✨. </p>
 ### <p align="center"> My research interests are in AI/ML, especifically on NLP at a semantic level and generalization in AI Systems. I also love Linux and Python, so most of my work is written using this technologies. </p>
 ### <p align="center"> Thanks for checking out my profile ^_____^! </p>
