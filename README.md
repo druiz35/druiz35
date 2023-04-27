@@ -71,7 +71,6 @@
 ### <p align="center">Others: </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"  style="border-radius:4px;">
-<img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"  style="border-radius:4px;">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"  style="border-radius:4px;">
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"  style="border-radius:4px;">
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"  style="border-radius:4px;">
