@@ -40,10 +40,11 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"  style="border-radius:4px;">
 </p>
 
-### <p align="center">IDEs: </p>
+### <p align="center">IDEs and Code Editors: </p>
 <p align="center">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"  style="border-radius:4px;">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  style="border-radius:4px;">
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" style="border-radius:4px;">
 </p>
 
 ### <p align="center">Frameworks: </p>
