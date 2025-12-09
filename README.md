@@ -16,8 +16,8 @@ MISC STUDIES SUMMARY: Every thursday.
 
 PROJECT PUBLICATION AND REVIEW: Every friday.
 
-Ig: https://www.instagram.com/druiz_35/
+Ig: [https://www.instagram.com/druiz_35/](https://www.instagram.com/druiz_35/)
 
-Reddit: https://www.reddit.com/user/Druiz35/
+LinkedIn: [https://www.linkedin.com/in/druiz35/](https://www.linkedin.com/in/druiz35/)
 
 Interests: AI, ML, Software Engineering, Computer Science, Hacking and Pentesting, Math, Music, Psychology, Philosophy, Horror and Sci-fi Literature, Chess, Video Games, Languages, Hiking, Running, Gym, Food, Coffee, Personal Finances.
