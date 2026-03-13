@@ -1,20 +1,19 @@
-
 Bouncing back to a chill life. 
 
-Trying to build all my stuff.
+Trying to build all of my own stuff.
 
 
 Drummer at @Volheid.
 
 Bass player at @UNAL-med.
 
-PAPER REVIEW: Every thursday.
+PAPER REVIEW: Every sunday.
 
-BOOK REVIEW: Every thursday.
+BOOK REVIEW: Every sunday.
 
-MISC STUDIES SUMMARY: Every thursday.
+MISC STUDIES SUMMARY: Every sunday.
 
-PROJECT PUBLICATION AND REVIEW: Every friday.
+PROJECT PUBLICATION AND REVIEW: Every saturday.
 
 Ig: [https://www.instagram.com/druiz_35/](https://www.instagram.com/druiz_35/)
 
